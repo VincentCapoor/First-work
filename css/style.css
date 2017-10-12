@@ -10,13 +10,16 @@ body{
 	display: table;
 	width: 100%;
 	clear: both;
-
 }
+
+div {
+	box-sizing: border-box;
+}
+
 
 header {
 	background: url(../img/first-bg.jpg) no-repeat center top / cover;
 	padding-bottom: 160px;
-
 }
 
 .container{
@@ -59,7 +62,6 @@ nav {
 	text-transform: uppercase;
 	text-align: center;
 	margin-top: 180px;
-
 }
 
 h1 {
@@ -182,11 +184,29 @@ h1 {
 }
 
 .about__us {
-	width: 277px;
-	
+	width: 315px;
+	height: 158px;
+
 }
 
+.about__us h3 {
+	font-size: 18px;
+	text-align: right;
+	text-transform: uppercase;
 
+}
+
+.about__us p {
+	font-size: 14px;
+	padding-top: 8px;
+	color: #777777;
+	line-height: 1.55em;
+	text-align: right;
+}
+
+.app {
+
+}
 
 
 
