@@ -16,6 +16,7 @@ body{
 header {
 	background: url(../img/first-bg.jpg) no-repeat center top / cover;
 	padding-bottom: 160px;
+
 }
 
 .container{
@@ -157,6 +158,38 @@ h1 {
 .works img:nth-child(2) {
 	margin-left: 29px;
 }
+
+.about {
+	padding-top: 123px;
+}
+
+.about h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.about p {
+	color: #777777;
+	margin: 5px; 
+	text-align: center;
+	font-size: 16px;
+	padding-top: 18px;
+	padding-bottom: 76px;
+
+}
+
+.about__us {
+	width: 277px;
+	
+}
+
+
+
+
+
 
 
 
