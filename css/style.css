@@ -141,6 +141,11 @@ h1 {
 	background: #f7f7f7;
 }
 
+.works {
+	margin-top: 70px;
+	padding-bottom: 116px;
+}
+
 .works img {
 	float: left;
 }
