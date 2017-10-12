@@ -180,12 +180,12 @@ h1 {
 	font-size: 16px;
 	padding-top: 18px;
 	padding-bottom: 76px;
-
 }
 
 .about__us {
 	width: 315px;
 	height: 158px;
+	float: left;
 
 }
 
@@ -193,7 +193,6 @@ h1 {
 	font-size: 18px;
 	text-align: right;
 	text-transform: uppercase;
-
 }
 
 .about__us p {
@@ -204,11 +203,43 @@ h1 {
 	text-align: right;
 }
 
-.app {
-
+#about1 {
+	margin-left: 41px;
+	padding-bottom: 90px; /* картинка */
 }
 
 
+
+.about__us1 {
+	width: 315px;
+	height: 158px;
+	float: left;
+	text-align:center;
+}
+
+.about__us1 h3 {
+	font-size: 18px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.about__us1 p {
+	font-size: 14px;
+	padding-top: 8px;
+	color: #777777;
+	line-height: 1.55em;
+	text-align: left;
+}
+
+
+
+.footer {
+	color: #777777;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 116px;
+	margin-bottom: 144px;
+}
 
 
 
